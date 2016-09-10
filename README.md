@@ -1,6 +1,7 @@
 # All in one search
 
-## workflows使用前置条件：购买Alfred Powerpack授权
+## 前置条件
+下载安装Alfred并购买Alfred Powerpack授权
 
 ## 安装方法
 [点此下载All in one search.alfredworkflow](https://github.com/huahuayu/all-in-one-search-workflows/blob/master/All%20in%20one%20search.alfredworkflow)，下载后双击打开即可
