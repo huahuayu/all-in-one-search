@@ -17,7 +17,7 @@
 | ctrl+j | jd | 京东搜索 |
 | ctrl+m | tm | 天猫搜索 |
 | ctrl+a | zcn | 亚马逊搜索 |
-| ctrl+i | db | 豆瓣搜索 |
+| ctrl+d | db | 豆瓣搜索 |
 | ctrl+v | v | 优酷搜索 |
 | ctrl+y | wb | 微博搜索 |
 | ctrl+x | wx | 微信搜索 |
