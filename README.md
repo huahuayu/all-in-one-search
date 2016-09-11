@@ -6,7 +6,7 @@
 - 打开Alfred软件，在标题栏靠右边找到Powerpack,点击输入Powerpack授权码
 
 ## 安装方法
-[点此下载All in one search.alfredworkflow](https://github.com/huahuayu/all-in-one-search-workflows/blob/master/All%20in%20one%20search.alfredworkflow)，下载后双击打开即完成安装了
+[点此下载All in one search.alfredworkflow](https://github.com/huahuayu/all-in-one-search-workflows/blob/master/All%20in%20one%20search.alfredworkflow)，下载后双击打开，安装即完成
 
 ## 热键建议
 导入All in one search workflows之后，热键要自己设置，建议设置如下：
