@@ -1,4 +1,4 @@
-# All in one search alfred workflows
+# All in one search Alfred workflows
 
 ## 前置条件
 - [下载安装Alfred](https://cachefly.alfredapp.com/Alfred_3.1_718.dmg)
