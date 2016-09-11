@@ -1,12 +1,15 @@
-# All in one search
+# All in one search alfred workflows
 
 ## 前置条件
-下载安装Alfred并购买Alfred Powerpack授权
+- [下载安装Alfred](https://cachefly.alfredapp.com/Alfred_3.1_718.dmg)
+- [购买Alfred Powerpack授权](https://www.alfredapp.com/powerpack/)
+- 打开Alfred软件，在标题栏靠右边找到Powerpack,点击输入Powerpack授权码
 
 ## 安装方法
-[点此下载All in one search.alfredworkflow](https://github.com/huahuayu/all-in-one-search-workflows/blob/master/All%20in%20one%20search.alfredworkflow)，下载后双击打开即可
+[点此下载All in one search.alfredworkflow](https://github.com/huahuayu/all-in-one-search-workflows/blob/master/All%20in%20one%20search.alfredworkflow)，下载后双击打开即完成安装了
 
 ## 热键建议
+导入All in one search workflows之后，热键要自己设置，建议设置如下：
 
 | 热键 |关键字| 功能 |
 | --- | --- | --- |
@@ -29,6 +32,8 @@
 | ctrl+o | seo | 站长查询 |
 | ctrl+z | z | 知乎搜索 |
 
-如未设热键也可在alt+space发起Alfred输入框之后通过输入关键字来使用
+如未设热键也可按下alt+space，看到Alfred输入框之后，通过输入关键字来使用
+
+
 
 
