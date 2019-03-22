@@ -34,7 +34,7 @@
 
 如未设热键也可按下alt+space，看到Alfred输入框之后，通过输入关键字来使用
 
-##视频演示
+## 视频演示
 http://v.qq.com/x/page/w0327uevf87.html
 
 
